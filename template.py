@@ -9,7 +9,7 @@ list_of_files = [
     "src/helper_py",
     "src/prompt.py",
     ".env",
-    "requiretments.txt",
+    "requirements.txt",
     "setup.py",
     "research/trails.ipynb",
     "app.py"
